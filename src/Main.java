@@ -13,7 +13,7 @@ public class Main {
             System.out.println("Hello");
             String user= "Pavel";
             String bigUser = "Oleg";
-            System.out.println(bigUser + user);
+            System.out.println(bigUser + user + " Pavel BigBoss");
         }
     }
 }
